@@ -1,0 +1,96 @@
+.maintitle {
+    color: slategrey;
+    font: "Times New Roman", sans-serif;
+    font-size:xx-large;
+    text-align: center;
+}
+
+#first, #second, #third, #fourth, #fifth {
+    font-size: 36;
+    text-align: center;
+}
+
+#first {
+    color: rgb(190, 35, 35);
+}
+
+#second {
+    color: rgb(250, 172, 27)
+}
+
+#third {
+    color: rgb(255, 251, 0);
+}
+
+#fourth {
+    color: rgb(63, 211, 63);
+}
+
+#fifth {
+    color: steelblue;
+}
+
+/* This is for TOAST PAGE */
+
+
+
+.toasttitle, .headerformat {
+    color: red;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    background: repeating-linear-gradient(45deg, salmon, transparent 100px);
+}
+
+.headerformat {
+    font-size: x-large;
+    background:white;
+}
+
+#scripttext {
+    color: black;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+#howto  {
+    text-align: center;
+}
+
+
+#one-toast {
+    color: red;
+}
+
+#two-toast {
+    color: rgb(255, 4, 4, 0.9);
+}
+
+#three-toast {
+    color: rgba(255, 4, 4, 0.8);
+}
+
+#four-toast {
+    color: rgba(255, 4, 4, 0.7);
+}
+
+#five-toast {
+    color: rgba(255, 4, 4, 0.6);
+}
+
+#six-toast {
+    color: rgba(255, 4, 4, 0.5);
+}
+
+#seven-toast {
+    color: rgba(255, 4, 4, 0.4);
+}
+
+#eight-toast {
+    color: rgba(255, 4, 4, 0.3);
+}
+
+#nine-toast {
+    color: rgba(255, 4, 4, 0.2);
+}
+
