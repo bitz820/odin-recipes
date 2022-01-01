@@ -161,3 +161,154 @@
     color: rgb(255, 170, 0);
     }
     
+    /* THIS IS FOR THE FETTUCCINE PAGE */
+
+    .chxtitle, .chxheaderformat {
+        color: rgb(235, 193, 8);
+        font-size: xx-large;
+        text-align: center;
+        font-weight: bolder;
+        background: repeating-linear-gradient(45deg, rgb(255, 251, 0), transparent 100px);
+    }
+    
+    .chxheaderformat {
+        font-size: x-large;
+        background:white;
+        font-weight: bolder;
+        text-align: center;
+    }
+
+    #onechx {
+        color: rgb(238, 255, 0);
+     }
+
+    #threechx {
+        color: rgb(255, 240, 0);
+    }
+
+    #twochx {
+        color: rgb(238, 230, 0);
+    }
+        
+    #fourchx {
+        color: rgb(255, 220, 0);
+    }
+
+    #fivechx {
+        color: rgb(255, 210, 0);
+    }
+
+    #sixchx {
+        color: rgb(238, 200, 0);
+    }
+        
+    #sevenchx {
+        color: rgb(255, 190, 0);
+    }
+
+ /* THIS IS FOR THE LO MEIN PAGE */
+
+ .lomeintitle, .lomeinheaderformat {
+    color: rgb(4, 95, 8);
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    background: repeating-linear-gradient(45deg, rgb(0, 255, 13), transparent 100px);
+}
+
+.lomeinheaderformat {
+    font-size: x-large;
+    background:white;
+    font-weight: bolder;
+    text-align: center;
+}
+
+#onelo {
+    color: rgb(0, 255, 13);
+}
+
+#twolo {
+        color: rgba(0, 255, 13, 0.9);
+}
+
+#threelo {
+    color: rgba(0, 255, 13, 0.8);
+}
+
+#fourlo {
+    color: rgba(0, 255, 13, 0.7);
+}
+
+#fivelo {
+    color: rgba(0, 255, 13, 0.6);
+}
+
+#sixlo {
+    color: rgba(0, 255, 13, 0.5);
+}
+
+#sevenlo {
+    color: rgba(0, 255, 13, 0.44);
+}
+
+#eightlo {
+    color: rgba(0, 255, 13, 0.40);
+}
+
+#ninelo {
+    color: rgba(0, 255, 13, 0.35);
+}
+
+#tenlo {
+    color: rgba(0, 255, 13, 0.3);
+}
+
+/*  THIS IS FOR THE PUDDIN' PAGE */
+
+.cptitle, .cpheaderformat {
+    color: rgb(0, 65, 102);
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    background: repeating-linear-gradient(45deg, rgb(0, 238, 255), transparent 100px);
+}
+
+.cpheaderformat {
+    font-size: x-large;
+    background:white;
+    font-weight: bolder;
+    text-align: center;
+}
+
+#onecp {
+    color: rgb(20, 65, 100);
+}
+
+#twocp {
+    color: rgb(39, 100, 145);
+}
+
+#threecp {
+    color: rgb(50, 110, 160);
+}
+
+#fourcp {
+    color: rgb(61, 120, 175);
+}
+
+#fivecp {
+    color: rgb(72, 130, 190);
+}
+
+#sixcp {
+    color: rgb(83, 140, 205);
+}
+
+#sevencp {
+    color: rgb(94, 150, 220);
+}
+
+#eightcp {
+    color: rgb(105, 169, 238);
+}
+
